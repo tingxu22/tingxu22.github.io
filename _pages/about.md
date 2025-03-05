@@ -43,9 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2019.05* Member, Beta Gamma Sigma (International honor society for top business students, recognizing academic excellence). 
-- *2018.05* Dean’s List, University of Pittsburgh.
-- *2015.06* Academic Scholarship, Sun Yat-sen University.
+- *2019.05*, Member, Beta Gamma Sigma (International honor society for top business students, recognizing academic excellence). 
+- *2018.05*, Dean’s List, University of Pittsburgh.
+- *2015.06*, Academic Scholarship, Sun Yat-sen University.
 
 # 📖 Education  
 - *2023.09 – Present*, Ph.D., Computer Science, University of Massachusetts Boston, Boston, MA  
